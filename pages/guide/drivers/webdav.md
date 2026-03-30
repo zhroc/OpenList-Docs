@@ -13,7 +13,7 @@ categories:
 
 ## Address { lang="en" }
 
-## 跳过 SSL 证书验证 { lang="zh-CN" }
+## 地址 { lang="zh-CN" }
 
 ::: en
 WebDAV root address
